@@ -1,4 +1,4 @@
-# 🔐 Sistema de Seguridad Facial con Clasificación de Zonas
+# -- Sistema de Seguridad Facial con Clasificación de Zonas -- 
 
 Sistema de seguridad en tiempo real que combina **reconocimiento facial** con **clasificación de zonas del hogar**. Detecta intrusos, identifica en qué zona están (cocina, dormitorio, pasillo...) y manda una notificación push al móvil.
 
@@ -15,7 +15,7 @@ InsightFace (ArcFace) → ¿está en la whitelist?
       ↓
 ConvNeXt-Small (fastai) → ¿en qué zona está?
       ↓
-"🚨 Intruso detectado en COCINA"
+"Intruso detectado en COCINA"
       ↓
 Alerta push (ntfy) + captura guardada en alerts_log/
 ```
@@ -63,7 +63,7 @@ CV_ProyectoFinal/
 ### Requisitos
 - Python 3.11
 - [uv](https://docs.astral.sh/uv/getting-started/installation/)
-- Mac con cámara (probado en M1 Pro)
+- PC con cámara (probado en M1 Pro)
 
 ### Paso 1 — Clona el repo
 
