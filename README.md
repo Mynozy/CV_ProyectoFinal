@@ -4,7 +4,7 @@ Creado con ayuda de nuestro amigo Claudio (Cluade).
 
 Sistema de seguridad en tiempo real que combina **reconocimiento facial** con **clasificación de zonas del hogar**. Detecta intrusos, identifica en qué zona están (cocina, dormitorio, pasillo...) y manda una notificación push al móvil.
 
-Proyecto Final — Master en Deep Learning · MIOTI · 2026
+Proyecto Final de Computer Vision — Master en Deep Learning · MIOTI · 2026
 
 ---
 
