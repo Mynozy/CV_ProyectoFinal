@@ -1,0 +1,7 @@
+fastai
+torch
+torchvision
+gradio
+Pillow
+timm
+huggingface_hub
