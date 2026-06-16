@@ -2,8 +2,6 @@
 .venv/
 
 # modelos pesados — están en HuggingFace Hub
-models/full_model.pth
-models/yolov12n-face.pt
 
 # datos personales — no subir
 whitelist/
@@ -13,3 +11,5 @@ alerts_log/
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
+models/full_model.pth
+models/yolov12n-face.pt
